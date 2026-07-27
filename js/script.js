@@ -293,9 +293,9 @@ function initNav() {
 //      be used from anywhere else.
 // ============================================================
 const EMAILJS_CONFIG = {
-  publicKey: 'YOUR_EMAILJS_PUBLIC_KEY',
-  serviceId: 'YOUR_EMAILJS_SERVICE_ID',
-  templateId: 'YOUR_EMAILJS_TEMPLATE_ID',
+  publicKey: 'i3excGoOt9qp1TDlH',
+  serviceId: 'service_4eo5tks',
+  templateId: 'template_puz5j7c',
 };
 
 function initContact() {
